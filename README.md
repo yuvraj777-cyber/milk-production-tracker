@@ -92,10 +92,6 @@ Instructions for Testing
 
 CLI Menu Screenshots 
 
-Main Menu
-<img width="535" height="318" alt="cli_main_menu" src="https://github.com/user-attachments/assets/f371c215-81a4-47d8-9108-7d50218401cf" />
-
-
 Adding farmer
 <img width="535" height="265" alt="cli_add_farmer" src="https://github.com/user-attachments/assets/2a801a33-9cc5-4f82-8846-7462fcb0df50" />
 
