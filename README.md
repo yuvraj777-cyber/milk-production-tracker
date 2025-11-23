@@ -107,8 +107,12 @@ Adding animal
 Milk entry report
 <img width="535" height="291" alt="cli_add_milk_entry" src="https://github.com/user-attachments/assets/0b58a62c-e6b2-4c58-a2a6-2fbc201d3075" />
 
+Jupyter Notebook Screenshots
 
-Jupyter noteboo
+Jupyter notebook testing
 <img width="1198" height="673" alt="jupyter_notebook_testing" src="https://github.com/user-attachments/assets/1371ae96-09e0-4c9f-b479-f84a058511d4" />
-k testing
+
+<img width="1212" height="586" alt="jupyter _add_farmer_add_animal_add_milk_entry_testing" src="https://github.com/user-attachments/assets/58542f62-ed5b-4b69-a8d6-e29084200acc" />
+
+
 
